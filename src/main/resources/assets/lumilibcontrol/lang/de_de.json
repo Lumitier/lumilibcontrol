@@ -1,0 +1,12 @@
+{
+  "lumilibcontrol.group.status": "Server",
+  "lumilibcontrol.group.mods": "Mods auf diesem Server",
+  "lumilibcontrol.option.not_controlled": "Dieser Server nutzt LumiLibControl nicht.",
+  "lumilibcontrol.option.not_controlled.desc": "Betritt einen Server mit LumiLibControlPlugin, um seine Mods hier zu verwalten.",
+  "lumilibcontrol.option.no_permission": "Du darfst die Mods auf diesem Server nicht ändern.",
+  "lumilibcontrol.option.no_permission.desc": "Admins brauchen die Berechtigung lumimod.admin (OPs haben sie automatisch).",
+  "lumilibcontrol.state.allowed": "Auf diesem Server erlaubt",
+  "lumilibcontrol.state.disabled": "Auf diesem Server abgeschaltet",
+  "lumilibcontrol.option.applies_to_everyone": "Änderungen gelten sofort für alle auf diesem Server.",
+  "lumilibcontrol.option.applies_to_everyone.desc": "Die eigenen Einstellungen der Spieler werden nie verändert."
+}

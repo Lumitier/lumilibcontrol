@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "lumilibcontrol",
+  "version": "${version}",
+  "name": "LumiLibControl",
+  "description": "Admin menu for LumiLibControlPlugin: switch Lumitier's mods on or off for everyone on your server, right from the LumiLib hub.",
+  "authors": [
+    "Lumitier"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/lumilibcontrol",
+    "sources": "https://github.com/Lumitier/lumilibcontrol",
+    "issues": "https://github.com/Lumitier/lumilibcontrol/issues"
+  },
+  "license": "Apache-2.0",
+  "icon": "assets/lumilibcontrol/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.lumitier.lumilibcontrol.LumiLibControlClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*",
+    "lumilib": ">=1.3.1"
+  }
+}
